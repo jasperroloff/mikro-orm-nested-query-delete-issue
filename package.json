@@ -1,0 +1,13 @@
+{
+  "name": "mikro-orm-nested-query-delete-issue",
+  "version": "1.0.0",
+  "main": "src/main.ts",
+  "license": "MIT",
+  "dependencies": {
+    "mariadb": "^2.3.1",
+    "mikro-orm": "^3.6.8",
+    "mysql2": "^2.1.0",
+    "ts-node": "^8.8.2",
+    "typescript": "^3.8.3"
+  }
+}
